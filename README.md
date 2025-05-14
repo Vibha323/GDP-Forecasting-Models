@@ -12,5 +12,5 @@ The hybrid model consistently outperformed standalone models in accuracy, captur
 
 ## Project Structure
 - `/notebooks`: Code for each model
-- `/outputs`: Forecast results and visualizations
+- `/data`: world bank data for all countries
 
